@@ -1,0 +1,65 @@
+/*h1 {
+    how to comment code in CSS
+    color: blue
+}*/
+
+
+body{
+    margin: 0px;
+    font-family: Helvetica;
+}
+
+p{
+    text-align: center;
+}
+
+div p.disclaimer, a{
+    background-color:#e8e6e8;
+}
+
+div {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+div.coffee {
+    background-image:url('bgcoffee.jpg');
+}
+
+div#header {
+    background-color: #c9afc0;
+    color:white;
+    font-size: 16px;
+    text-align: center;
+}
+
+h1.h1header.bio{
+    color: burlywood;
+}
+
+span.underline{
+    text-decoration: underline;
+}
+
+a:link{
+    color:black;
+    /* all unvisited links have a black text color*/
+
+}
+
+a:visited{
+    color:purple;
+}
+
+a:hover{
+    color:red;
+}
+
+a:active{
+    color:orange;
+}
+

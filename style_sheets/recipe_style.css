@@ -1,0 +1,37 @@
+
+.header{
+    font-family: "Bangla MN", sans-serif;
+    font-size: 30px;
+    color: chocolate;
+}
+
+
+#h1-header.header{
+    color:saddlebrown;
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/87/45/retro-pasta-seamless-background-vector-45668745.jpg");
+}
+
+#pasta-image{
+    padding: 30px;
+}
+
+ul.groceries{
+    list-style-type: circle;
+}
+
+li.recipe-steps {
+    padding-bottom: 20px;
+}
+
+a:link{
+    color:black;
+}
+
+a:visted{
+    color: saddlebrown;
+}
+
+a:hover{
+    color: green;
+}
+
